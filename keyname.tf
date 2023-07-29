@@ -1,5 +1,5 @@
 # Defining Key Name for connection
-variable "Keyname" {
+variable "keyname" {
   default     = "jenkins-keypair" 
   description = "Name of AWS key pair"
 }
